@@ -1,0 +1,6 @@
+pyttsx3
+cohere
+gtts
+webbrowser
+speechrecognition
+wikipedia
